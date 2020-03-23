@@ -1,0 +1,9 @@
+{
+  "name": "minimax",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:OJPARKINSON/minimax.git",
+  "author": "Oliver <olliepar01@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
